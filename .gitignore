@@ -1,0 +1,4 @@
+rclone*/**
+*.ini
+*.sqlite3
+*.log
